@@ -8,8 +8,8 @@ Schematics, gerbers and Bill of Materials (BOM) are available under *Electronic 
 There is only one type of component, 3 pcs per PCB - connector Phoenix Contact PTSA 0,5/ 8-2,5-Z
 
 #### DIN Holder:
-* ITALTRONIC 2x 07.6010000\
-* ITALTRONIC 1x 07.6000000
+* ITALTRONIC 2x 07.6010000  
+* ITALTRONIC 1x 07.6000000  
 
 See Links section for datasheets.
 
@@ -22,6 +22,6 @@ See Links section for datasheets.
 If you find any bugs, have suggestions, or would like to contribute to the development of this project, feel free to contact me or submit a pull request (PR). Your contributions are greatly appreciated, and I am always open to feedback and collaboration. Thank you for helping to improve this project!
 
 ### Links
-1990067 (PTSA 0,5/ 8-2,5-Z) datasheet | https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-05-8-25-z-1990067?type=pdf\
-ITALTRONIC 2x 07.6010000 | https://www.tme.eu/Document/9cda323b00e20a6973f34dfd1a1a7434/07_6010000.pdf\
+1990067 (PTSA 0,5/ 8-2,5-Z) datasheet | https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-ptsa-05-8-25-z-1990067?type=pdf  
+ITALTRONIC 2x 07.6010000 | https://www.tme.eu/Document/9cda323b00e20a6973f34dfd1a1a7434/07_6010000.pdf  
 ITALTRONIC 1x 07.6000000 | https://www.tme.eu/Document/0ed912874d540c883c8aa2a145c2f11e/07_6000000.pdf
